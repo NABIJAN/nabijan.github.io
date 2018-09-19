@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-19T15:40:23.664Z</updated>
+  <updated>2018-09-19T15:49:31.981Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2018/09/19/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E5%9B%BE-graph/"/>
     <id>http://yoursite.com/2018/09/19/数据结构-图-graph/</id>
     <published>2018-09-19T15:29:45.000Z</published>
-    <updated>2018-09-19T15:40:23.664Z</updated>
+    <updated>2018-09-19T15:49:31.981Z</updated>
     
     <summary type="html">
     
@@ -30,7 +30,9 @@
       <category term="数据结构" scheme="http://yoursite.com/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
     
-      <category term="-考研之路 -图(graph)" scheme="http://yoursite.com/tags/%E8%80%83%E7%A0%94%E4%B9%8B%E8%B7%AF-%E5%9B%BE-graph/"/>
+      <category term="考研之路" scheme="http://yoursite.com/tags/%E8%80%83%E7%A0%94%E4%B9%8B%E8%B7%AF/"/>
+    
+      <category term="图(graph)" scheme="http://yoursite.com/tags/%E5%9B%BE-graph/"/>
     
   </entry>
   
